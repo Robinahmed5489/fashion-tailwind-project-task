@@ -1,0 +1,18 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.banner-data h1 {
+  font-family: "Bebas Neue", sans-serif;
+}
+.text-size {
+  font-size: 14px;
+}
+/* .dress-category {
+  gap: 20px;
+} */
+@media screen and (min-width: 450px) and (max-width: 640px) {
+  .man-jacket .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
